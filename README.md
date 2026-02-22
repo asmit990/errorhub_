@@ -1,3 +1,2 @@
-# errorhub
-# errorhub_
-# errorhub_
+
+this is the frontend of the errorhub-website the backend is closed sourced 
